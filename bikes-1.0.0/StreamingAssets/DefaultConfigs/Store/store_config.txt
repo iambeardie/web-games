@@ -1,0 +1,16 @@
+{
+  "store_items": [
+    {
+      "item_id": "small_coins",
+      "coins_reward": 1000
+    },
+    {
+      "item_id": "medium_coins",
+      "coins_reward": 5000
+    },
+    {
+      "item_id": "large_coins",
+      "coins_reward": 10000
+    }
+  ]
+}

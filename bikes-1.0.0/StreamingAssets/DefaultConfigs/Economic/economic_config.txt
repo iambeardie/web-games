@@ -1,0 +1,5 @@
+{
+  "coins_factor" : 5,
+  "trampoline_reward" : 50,
+  "trampoline_bonus_time" : 1.6
+}

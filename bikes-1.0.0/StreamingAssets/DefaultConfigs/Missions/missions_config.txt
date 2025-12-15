@@ -1,0 +1,19 @@
+{
+  "distance_base" : 500,
+  "distance_checkpoint_min" : 500,
+  "amount_checkpoints_max" : 4,
+  "distance_increase" : 80,
+  "start_base_speed" : 80,
+  "speed_increase" : 2,
+  "speed_base_max" : 140,
+  "add_seconds_by_overtaking" : 0.6,
+  "amount_coins_for_missions_continue" : 100,
+  "acceleration_time" : 5,
+  "easy_extra_time" : 5,
+  "medium_extra_time" : 3,
+  "hard_extra_time" : 0,
+  "easy_mission_reward" : 50,
+  "medium_mission_reward" : 100,
+  "hard_mission_reward" : 150,
+  "mission_number_reward" : 5
+}

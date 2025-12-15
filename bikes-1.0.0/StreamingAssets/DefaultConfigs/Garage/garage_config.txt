@@ -1,0 +1,53 @@
+{
+  "garageBikes": [
+    {
+      "id": "bike_5",
+      "name": "Maverick Mirage",
+      "isLocked": false,
+      "cost": 0,
+      "canGetByAds": false
+    },
+    {
+      "id": "bike_3",
+      "name": "Phantom Hawk",
+      "isLocked": true,
+      "cost": 200,
+      "canGetByAds": true
+    },
+    {
+      "id": "bike_1",
+      "name": "Midnight Rider",
+      "isLocked": true,
+      "cost": 300,
+      "canGetByAds": true
+    },
+    {
+      "id": "bike_2",
+      "name": "Shadow Sprint",
+      "isLocked": true,
+      "cost": 500,
+      "canGetByAds": true
+    },
+    {
+      "id": "bike_4",
+      "name": "Road King",
+      "isLocked": true,
+      "cost": 1000,
+      "canGetByAds": true
+    },
+    {
+      "id": "bike_6",
+      "name": "Firestorm GT",
+      "isLocked": true,
+      "cost": 3000,
+      "canGetByAds": true
+    },
+    {
+      "id": "bike_7",
+      "name": "Inferno Fury",
+      "isLocked": true,
+      "cost": 8000,
+      "canGetByAds": true
+    }
+  ]
+}

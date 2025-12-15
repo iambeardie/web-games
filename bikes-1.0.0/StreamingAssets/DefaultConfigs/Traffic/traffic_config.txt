@@ -1,0 +1,8 @@
+{
+  "front_spawn_distance" : 250,
+  "front_despawn_distance" : 400,
+  "back_spawn_distance" : 30,
+  "back_despawn_distance" : -50,
+  "car_min_speed": 8,
+  "car_max_speed": 14
+}

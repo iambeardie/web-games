@@ -1,0 +1,4 @@
+{
+  "bike_health" : 70,
+  "max_damage_power" : 30
+}

@@ -1,0 +1,4 @@
+{
+  "overtaking_distance" : 2,
+  "overtaking_reward" : 50
+}

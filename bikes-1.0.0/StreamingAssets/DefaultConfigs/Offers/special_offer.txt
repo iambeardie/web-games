@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "available_on_session_number": 2,
+  "timer_minutes": 180,
+  "coins_amount": 3000,
+  "bike_id": "bike_6"
+}

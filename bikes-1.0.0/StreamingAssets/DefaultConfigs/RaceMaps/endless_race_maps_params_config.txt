@@ -1,0 +1,44 @@
+{
+  "endless_race_maps": [
+    {
+      "race_id": "desert_road_id",
+      "traffic_on_one_segment_road_min": 3,
+      "traffic_on_one_segment_road_max": 10,
+      "traffic_distance_increment": 1,
+      "traffic_amount_increment": 1,
+      "traffic_types": [
+        "S34_Race",
+        "GMS_4x4",
+        "PG86_Stock",
+        "S34_Stock"
+      ]
+    },
+    {
+      "race_id": "highway_road_id",
+      "traffic_on_one_segment_road_min": 3,
+      "traffic_on_one_segment_road_max": 10,
+      "traffic_distance_increment": 1,
+      "traffic_amount_increment": 1,
+      "traffic_types": [
+        "S34_Race",
+        "GMS_4x4",
+        "PG86_Stock",
+        "S34_Stock"
+      ]
+    },
+    {
+      "race_id": "snow_road_id",
+      "traffic_on_one_segment_road_min": 3,
+      "traffic_on_one_segment_road_max": 10,
+      "traffic_distance_increment": 1,
+      "traffic_amount_increment": 1,
+      "traffic_types": [
+        "S34_Race",
+        "GMS_4x4",
+        "PG86_Stock",
+        "S34_Stock",
+        "Truck"
+      ]
+    }
+  ]
+}

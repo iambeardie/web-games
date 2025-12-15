@@ -1,0 +1,4 @@
+{
+  "enabled": true,
+  "reward_coins_amount": 300
+}

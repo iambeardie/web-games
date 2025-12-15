@@ -1,0 +1,61 @@
+{
+  "bikeName": "Road King",
+  "bikeConfig": {
+    "wheelOffsetInMaxRoll": 0.05,
+    "maxHeightDiffWheelsForChangeCom": 1,
+    "maxPitchAngularInAir": 2,
+    "maxYawAngularInAir": 2,
+    "maxReverseSpeedForCrash": 5,
+    "maxSqrGForceForCrash": 100,
+    "targetReverseSpeed": 3,
+    "useMinSpeed": true,
+    "minSpeed": 2.8
+  },
+  "bikeEngineConfig": {
+    "maxMotorTorque": 80,
+    "maxRPM": 6000,
+    "minRPM": 600,
+    "rpmEngineToRPMWheelsFast": 8,
+    "rpmEngineToRPMWheelsSlow": 3,
+    "speedLimit": 0,
+    "cutOffRPM": 5600,
+    "targetCutOffRPM": 5000,
+    "cutOffTime": 0.05,
+    "enableTurbo": false,
+    "turboIncreaseSpeed": 0,
+    "turboDecreaseSpeed": 0,
+    "turboAdditionalTorque": 0,
+    "enableBoost": true,
+    "boostAmount": 7,
+    "boostAdditionalPower": 1,
+    "probabilityBackfire": 0,
+    "rpmToNextGear": 5400,
+    "rpmToPrevGearDiff": 600
+  },
+  "bikeGearboxConfig": {
+    "changeUpGearTime": 0.1,
+    "changeDownGearTime": 0.05,
+    "automaticGearBox": true,
+    "gearsRatio": [
+      3,
+      2,
+      1.4,
+      1,
+      0.75
+    ],
+    "mainRatio": 4.3,
+    "hasRGear": false,
+    "reversGearRatio": 0
+  },
+  "bikeSteerConfig": {
+    "maxSteerAngle": 45,
+    "enableSteerLimit": true,
+    "maxVelocityAngleForHelp": 120,
+    "minSpeedForHelp": 1.5,
+    "helpDriftIntensity": 0,
+    "maxSpeedForMaxAngularHelp": 20,
+    "driftLimitAngle": 0,
+    "abs": 1,
+    "tcs": 0
+  }
+}

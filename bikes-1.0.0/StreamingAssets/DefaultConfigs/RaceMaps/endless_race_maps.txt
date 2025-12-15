@@ -1,0 +1,28 @@
+{
+  "raceMaps": [
+    {
+      "road_id": "desert_road_id",
+      "is_coming_soon": false,
+      "coins_to_unblock": 0,
+      "purchase_sku": ""
+    },
+    {
+      "road_id": "highway_road_id",
+      "is_coming_soon": false,
+      "coins_to_unblock": 0,
+      "purchase_sku": ""
+    },
+    {
+      "road_id": "snow_road_id",
+      "is_coming_soon": false,
+      "coins_to_unblock": 0,
+      "purchase_sku": ""
+    },
+    {
+      "road_id": "city_road_id",
+      "is_coming_soon": true,
+      "coins_to_unblock": 0,
+      "purchase_sku": ""
+    }
+  ]
+}
