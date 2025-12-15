@@ -39,11 +39,11 @@
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/6947bb8e253985d34a883a931c1ccc7f.loader.js";
+  var loaderUrl = buildUrl + "/f223c7ba5ad9472dd182491cecf08b7c.loader.js";
   var config = {
-    dataUrl: buildUrl + "/919af1060ce50a3003187a344ef88c22.data",
+    dataUrl: buildUrl + "/8741828dc719cb0f8a3556bcac42af99.data",
     frameworkUrl: buildUrl + "/11459988f2313ea6f64d99a3fdcdade1.framework.js",
-    codeUrl: buildUrl + "/02f883b738e7d35d0d2c9648b1d32eff.wasm",
+    codeUrl: buildUrl + "/93a6ec5ef3d57279d1a56094c4914e79.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "BrainSoft Apps",
     productName: "Moto Bike Race",
