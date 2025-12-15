@@ -1,0 +1,112 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BikeConfigAsset" preserve="all" />
+    <type fullname="BikeUpgradeConfigAsset" preserve="all" />
+    <type fullname="BikeUpgradeGlobalConfigAsset" preserve="all" />
+    <type fullname="DefaultNamespace.BikeClickHandler" preserve="all" />
+    <type fullname="DefaultNamespace.Tachometer" preserve="all" />
+    <type fullname="Display" preserve="all" />
+    <type fullname="EngineConfigAsset" preserve="all" />
+    <type fullname="GearboxConfigAsset" preserve="all" />
+    <type fullname="PG.BikeController" preserve="all" />
+    <type fullname="PG.BikeWheel" preserve="all" />
+    <type fullname="PG.CarSFX" preserve="all" />
+    <type fullname="PG.CarVFX" preserve="all" />
+    <type fullname="PG.DamageableObject" preserve="all" />
+    <type fullname="PG.LightObject" preserve="all" />
+    <type fullname="PG.LookAtTransform" preserve="all" />
+    <type fullname="PG.MoveableDO" preserve="all" />
+    <type fullname="PG.VehicleDamageController" preserve="all" />
+    <type fullname="PlayerControllerView" preserve="all" />
+    <type fullname="SkrilStudio.RealisticEngineSound" preserve="all" />
+    <type fullname="SkrilStudio.UVC_RES2" preserve="all" />
+    <type fullname="SteerConfigAsset" preserve="all" />
+    <type fullname="PG.BikeController/BikeConfig" preserve="nothing" serialized="true" />
+    <type fullname="PG.BikeUpgradeBrakesConfig" preserve="nothing" serialized="true" />
+    <type fullname="PG.BikeUpgradeConfig" preserve="nothing" serialized="true" />
+    <type fullname="PG.BikeUpgradeGlobalConfig" preserve="nothing" serialized="true" />
+    <type fullname="PG.BikeUpgradePowerConfig" preserve="nothing" serialized="true" />
+    <type fullname="PG.BikeUpgradeSpeedConfig" preserve="nothing" serialized="true" />
+    <type fullname="PG.CarController/EngineConfig" preserve="nothing" serialized="true" />
+    <type fullname="PG.CarController/GearboxConfig" preserve="nothing" serialized="true" />
+    <type fullname="PG.CarController/SteerConfig" preserve="nothing" serialized="true" />
+    <type fullname="PG.EngineRpmUpgradeConfig" preserve="nothing" serialized="true" />
+    <type fullname="PG.EngineTorqueUpgradeConfig" preserve="nothing" serialized="true" />
+    <type fullname="PG.VehicleSFX/ColissionEvent" preserve="nothing" serialized="true" />
+    <type fullname="PG.VehicleSFX/GroundSound" preserve="nothing" serialized="true" />
+    <type fullname="PG.VehicleVFX/CollissionParticles" preserve="nothing" serialized="true" />
+    <type fullname="PG.WheelsMaxBrakeTorqueUpgradeConfig" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Localization.Locale" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.StringTable" preserve="all" />
+    <type fullname="UnityEngine.Localization.LocaleIdentifier" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.MetadataCollection" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.DistributedUIDGenerator" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData/SharedTableEntry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.SmartFormatTag" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.Audio.AudioMixerSnapshotController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Audio.AudioMixer" preserve="all" />
+    <type fullname="UnityEngine.Audio.AudioMixerGroup" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.TrailRenderer" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.VehiclesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.WheelCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="Zenject, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Zenject.ZenAutoInjecter" preserve="all" />
+  </assembly>
+</linker>

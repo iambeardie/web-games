@@ -1,0 +1,17 @@
+{
+  "builds": [
+    {
+      "version": "1.0.0",
+      "folder": "bikes-1.0.0",
+      "description": "Bikes WebGL build",
+      "isLatest": true,
+      "date": "2024-01-01",
+      "changelog": [
+        "Bikes WebGL release",
+        "WebGL platform support",
+        "Firebase Remote Config integration"
+      ]
+    }
+  ]
+}
+

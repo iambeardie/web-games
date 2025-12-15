@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "903881045058",
+    "project_id": "moto-racing-3d-2",
+    "storage_bucket": "moto-racing-3d-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903881045058:android:878cdf586ea7f75dade9db",
+        "android_client_info": {
+          "package_name": "com.brainsoft.moto.traffic.rider.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903881045058-32mroo4i970688mlsnqt7rr9iqn6tmus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMs08Hspn6I7BPPiMFBsdyJZFfgN5csTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903881045058-32mroo4i970688mlsnqt7rr9iqn6tmus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "903881045058-l18cughtjovatrmj84v1j3irje4jca39.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brainsoft.moto.traffic.rider.simulator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
